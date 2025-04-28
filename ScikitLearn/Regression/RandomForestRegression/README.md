@@ -62,7 +62,7 @@ The model combines multiple decision trees to capture complex, non-linear relati
 ### Regression Result
 
 <p align="center">
-  <img src="Position_Salaries.png" alt="Random Forest Regression Visualization" width="600"/>
+  <img src="PositionvsSalaries.png" alt="Random Forest Regression Visualization" width="600"/>
 </p>
 
 - 🔵 Blue dots: Real salary data points
