@@ -62,12 +62,6 @@ The following chart compares the R² and MSE scores across all six models:
 - Residual plots show some non-linearity and heteroscedasticity
 
 
-## 📌 Future Work
-
-- Add Lasso Regression for feature selection
-- Use polynomial regression to capture non-linearity
-- Try XGBoost or RandomForest for model improvement
-
 ---
 
 🧑‍💻 Author: Yiteng Tang  
